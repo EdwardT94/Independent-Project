@@ -1,8 +1,9 @@
 h1 {
-    color: rgb(146, 50, 43);
+    color: rgb(240, 27, 12);
 }
 body {
     background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
 }
 .edd {
     line-height: 20px;
@@ -11,7 +12,7 @@ body {
     line-height: 20px;
 
 }
-.column {
+.tomm1{
     float: left;
     width: 25%
 }
@@ -21,7 +22,7 @@ body {
 }
 .wel{ 
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 20%;
     transform: translate(-505, -50%);
     font-size: 50px;
