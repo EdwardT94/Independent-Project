@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(146, 50, 43);
+}
+body {
+    background-color: grey;
+}
+.edd {
+    line-height: 20px;
+}
+.mimi {
+    line-height: 20px;
+
+}
+.column {
+    float: left;
+    width: 25%
+}
+.mimi2 {
+    line-height: 20px;
+
+}
+.wel{ 
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-505, -50%);
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+ }
