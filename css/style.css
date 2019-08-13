@@ -2,7 +2,7 @@ h1 {
     color: rgb(240, 27, 12);
 }
 body {
-    background-color: grey;
+    background-color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
 }
 .edd {
@@ -33,6 +33,8 @@ body {
 }
 footer{
     display: block;
+    background-color: blanchedalmond;
+
 }
 
  
