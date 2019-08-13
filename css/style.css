@@ -28,4 +28,11 @@ body {
     font-size: 50px;
     color: rgb(255, 0, 0);
  }
+.clear{
+    clear: both;
+}
+footer{
+    display: block;
+}
+
  
