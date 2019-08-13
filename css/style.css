@@ -1,8 +1,9 @@
 h1 {
+    background-color: aquamarine;
     color: rgb(240, 27, 12);
 }
 body {
-    background-color: aquamarine;
+     background-color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
 }
 .edd {
